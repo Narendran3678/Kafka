@@ -25,5 +25,6 @@
 
 	.\bin\windows\kafka-server-start.bat .\config\server.properties
 
+4. Spring Kafka Java Documentation : https://docs.spring.io/spring-kafka/reference/quick-tour.html
 	
 4. Kafka Tutorial : https://www.youtube.com/watch?v=inrQUHLPFd4&list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
